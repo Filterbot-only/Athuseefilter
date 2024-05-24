@@ -1,24 +1,24 @@
 class script(object):
     START_TXT = """𝐇𝐞𝐥𝐥𝐨... {}
     
-𝐌𝐲 𝐍𝐚𝐦𝐞 𝐈𝐬 <a href=http://t.me/Qtmvepredvd2Bot><b>🔥𝐌𝐚𝐝𝐡𝐚𝐧 𝐎𝐏 𝐏𝐫𝐞 𝐃𝐕𝐃🎋</b></a>
+𝐌𝐲 𝐍𝐚𝐦𝐞 𝐈𝐬 <a href=https://t.me/Athu_see_1287bot><b>🔥𝐌𝐑 𝐈𝐏𝐋 ⚡</b></a>
 
 𝐈 𝐂𝐚𝐧 𝐏𝐫𝐨𝐯𝐢𝐝𝐞 𝐌𝐨𝐯𝐢𝐞𝐬, 𝐉𝐮𝐬𝐭 𝐀𝐝𝐝 𝐌𝐞 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 𝐀𝐧𝐝 𝐌𝐚𝐤𝐞 𝐌𝐞 𝐀𝐝𝐦𝐢𝐧.. 𝐓𝐡𝐞𝐧 𝐒𝐞𝐞 𝐌𝐲 𝐏𝐨𝐰𝐞𝐫
 
 𝐌𝐚𝐤𝐞𝐫 𝐌𝐞 <a href=https://t.me/Owner_of_qtmve><b>♣𝐀𝐮𝐭𝐡𝐨𝐫🥀</b></a></b>"""
     HELP_TXT = """<b>𝐇𝐞𝐲 {} 𝐅𝐫𝐢𝐞𝐧𝐝𝐬 𝐇𝐞𝐫𝐞 𝐘𝐨𝐮𝐫 𝐁𝐮𝐭𝐭𝐨𝐧𝐬 👇</b>"""
 
-    ABOUT_TXT = """<b>🎧 𝐌𝐲 𝐍𝐚𝐦𝐞 𝐢𝐬 : <a href=http://t.me/Qtmvepredvd2Bot>🔥Ｍａｔｈａｎ 🅞🅟🎋</a>
-🔥 𝐀𝐫𝐭𝐢𝐬𝐭 : <a href=https://t.me/Owner_of_qtmve>🍁𝐐𝐭𝐦𝐯𝐞_𝐎𝐰𝐧𝐞𝐫☔</a>
-🍻 𝐃𝐞𝐯𝐨𝐥𝐨𝐩𝐞𝐫 : <a href=https://t.me/SMD_Owner>🎋𝐒𝐌𝐃_𝐎𝐰𝐧𝐞𝐫🦞</a>
-✍️ 𝐆𝐫𝐚𝐝𝐮𝐚𝐭𝐞 : <a href=https://t.me/Siva_Soft>🛬𝐒𝐢𝐯𝐚🚦</a>
-♠ 𝐊𝐨𝐥𝐚𝐫𝐮 : <a href=https://t.me/Svaraz>🎭𝐔𝐚𝐫𝐮𝐭𝐨🔥</a>
-👨‍🔧 𝐇𝐞𝐥𝐩𝐞𝐫 : <a href=https://t.me/Thavarajtj>🗽𝐓𝐡𝐚𝐯𝐚𝐫𝐚𝐣🌿</a>
-⚜️ 𝐐𝐭𝐯𝐬𝐨𝐟𝐟𝐢𝐜𝐢𝐚𝐥 : <a href=https://t.me/QTVS_BOT_X_CLOUD>🥀𝐌𝐚𝐫𝐯𝐞𝐥🎋</a></b>"""
+    ABOUT_TXT = """<b>✯ ᴍʏ ɴᴀᴍᴇ ɪs : <a href=https://t.me/Athu_see_1287bot>🔥𝐌𝐑 𝐈𝐏𝐋 ⚡</a>
+✯ Cʀᴇᴀᴛᴏʀ: <a href='https://t.me/vinoth42012'>𒆜 ᴠɪɴᴏᴛʜ 𝟐𝐊 ࿐</a>
+✯ Lɪʙʀᴀʀʏ: ᴘʏƦᴏɢƦᴀᴍ
+✯ Lᴀɴɢᴜᴀɢᴇ: ᴘʏᴛʜᴏɴ 3
+✯ DᴀᴛᴀBᴀsᴇ: ᴍᴏɴɢᴏᴅʙ
+✯ Bᴏᴛ Sᴇʀᴠᴇʀ: 𝐕𝐏𝐒
+✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: Stable Server </b>"""
 
-    SOURCE_TXT = """𝐓𝐡𝐢𝐬 𝐈𝐬 𝐀𝐧 𝐏𝐫𝐢𝐯𝐚𝐭𝐞-𝐒𝐨𝐮𝐫𝐜𝐞 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐁𝐲 <a href=https://t.me/Owner_of_qtmve>🅼🅰🅳🅰🅽 🅾🅿</a>
+    SOURCE_TXT = """𝐓𝐡𝐢𝐬 𝐈𝐬 𝐀𝐧 𝐏𝐫𝐢𝐯𝐚𝐭𝐞-𝐒𝐨𝐮𝐫𝐜𝐞 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐁𝐲 <a href=https://t.me/vinoth42012>🔥𝐌𝐑 𝐈𝐏𝐋 ⚡</a>
 
-- 𝟏𝟎𝟎﹪ 𝐂𝐨𝐝𝐞𝐝 𝐁𝐲 <a href=https://t.me/Owner_of_qtmve>🌿𝐕𝐞𝐧𝐮𝐦𝐚 𝐔𝐧𝐠𝐚𝐥𝐮𝐤𝐮 𝐢𝐧𝐠𝐚 𝐯𝐚𝐧𝐠𝐚𝐚!🦞</a>
+- 𝟏𝟎𝟎﹪ 𝐂𝐨𝐝𝐞𝐝 𝐁𝐲 <a href=https://t.me/vinoth42012>🌿𝐕𝐞𝐧𝐮𝐦𝐚 𝐔𝐧𝐠𝐚𝐥𝐮𝐤𝐮 𝐢𝐧𝐠𝐚 𝐯𝐚𝐧𝐠𝐚𝐚!🦞</a>
 
 - & 𝐑𝐞𝐩𝐨 𝐋𝐢𝐧𝐤 👇 𝐇𝐞𝐫𝐞"""
 
@@ -41,7 +41,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 2. ᴛʜɪꜱ ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛꜱ ʙᴜᴛᴛᴏɴꜱ ᴡɪᴛʜ ᴀɴʏ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ ᴛʏᴘᴇ.
 3. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ
 <b>ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ:</b>
-<code>[Button Text](buttonurl:https://t.me/QTVS_BOT_X_CLOUD)</code>
+<code>[Button Text](buttonurl:https://t.me/QTVS_BOtz)</code>
 <b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
 <code>[Button Text](buttonalert:𝐓𝐡𝐢𝐬 𝐢𝐬 𝐚𝐧 𝐚𝐥𝐞𝐫𝐭 𝐌𝐞𝐬𝐬𝐚𝐠𝐞)</code>"""
 
@@ -205,11 +205,11 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
 <b>
 ╭─────── • ◆ • ───────╮
-🔅 𝐌𝐚𝐢𝐧 𝐇𝐮𝐛:  <a href="https://t.me/Qtmve_linkZzz">♻️𝐂𝐥𝐢𝐜𝐤♻️</a>
+🔅 𝐌𝐚𝐢𝐧 𝐇𝐮𝐛:  <a href="https://t.me/VT_Linkz">♻️𝐂𝐥𝐢𝐜𝐤♻️</a> 🔅
 ╰─────── • ◆ • ───────╯
 
 =========== • ✠ • ===========
-🦞 𝐔𝐩𝐝𝐚𝐭𝐞 : @Qtmve_linkZzz
+🦞 𝐔𝐩𝐝𝐚𝐭𝐞 : @VT_Linkz
 =========== • ✠ • ===========</b>"""
 
     IMDB_TEMPLATE_TXT = """
