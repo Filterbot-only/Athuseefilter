@@ -157,7 +157,7 @@ async def start(client, message):
                         [
                          [
                           InlineKeyboardButton('🦞 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 ❄', url=GRP_LNK),
-                          InlineKeyboardButton('☘️ 𝐌𝐚𝐢𝐧 𝐇𝐮𝐛 🦞', url=CHNL_LNK')
+                          InlineKeyboardButton('☘️ 𝐌𝐚𝐢𝐧 𝐇𝐮𝐛 🦞', url=CHNL_LNK)
                        ],[
                           InlineKeyboardButton("❄ 𝐑𝐞𝐪𝐮𝐞𝐬𝐭 𝐆𝐫𝐨𝐮𝐩 🥀", url=GRP_LNK)
                          ]
